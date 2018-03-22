@@ -71,7 +71,11 @@
 		h2 {
 	
 			text-align: center;
-			border: solid; color: purple;
+			border: solid; color: #3f0152;
+			padding: 50px;
+			height: 200px;
+			width:500px;
+
 		}
 
 		h3 {
