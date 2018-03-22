@@ -94,6 +94,6 @@
 			margin-top: 30px;
 		}
 
-		.resize {
-			width: 1200
+		.center {
+			float: center;
 		}
