@@ -58,6 +58,7 @@
 			margin: 20px auto;
 			text-align: center;
 			padding: 30px;
+			color: purple;
 		}
 
 		.colorchange {
@@ -71,7 +72,7 @@
 		h2 {
 	
 			text-align: center;
-			border: solid; color: #3f0152;
+			border: solid;
 			padding: 30px;
 			height: 50px;
 			width:300px;
