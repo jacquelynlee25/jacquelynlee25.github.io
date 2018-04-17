@@ -1,36 +1,36 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 body{
-    background-color: #fcebe8;
-    font-family: 'Inconsolata', monospace;
+	background-color: #fcebe8;
+	font-family: 'Inconsolata', monospace;
 }
 h1 {
-    text-align: center;
-    padding-top: 40px;
-    padding-bottom: 30px;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 30px;
 }
 .text {
-    margin: 20px 500px;
+	margin: 20px 500px;
 }
 
 h3 {
-    margin: 30px 400px;
+	margin: 30px 400px;
 }
 
 img {
-    width: 1117px;
-    height: 502px;
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+	width: 1117px;
+	height: 502px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .center {
-    width: 440px;
-    height: 280px;
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+	width: 440px;
+	height: 280px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .button {
