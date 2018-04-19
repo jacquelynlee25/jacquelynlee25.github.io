@@ -32,7 +32,6 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 }
-
 .button {
     background-color: #b6bdc6;
     border: none;
@@ -48,5 +47,11 @@ img {
 }
 
 .button:hover {
-    background-color: black;
+    background-color: gray;
+    color: white;
+}
+
+a {
+	text-decoration: none;
+	color:black;
 }
