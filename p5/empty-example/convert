@@ -1,0 +1,26 @@
+var= float circleX;
+var = float xspeed = 5;
+
+function setup() {
+  resizeCanvas(windowWidth,windowHeight);
+  circleX = 0;
+  background(0);
+}
+
+function draw() {
+  
+ 
+ circleX = circleX + xspeed;
+ //left click to clear the canvas
+ if (circleX > width || circleX < 0) {
+   xspeed = xspeed * -1;
+ }
+ 
+ if (mouseIsPressed) {
+background(0);
+ }else{
+  fill(#a28ce2);
+  stroke(255);
+  ellipse(circleX,height/2, 200, 200); 
+ }
+}
