@@ -27,7 +27,7 @@
 			list-style-type: none;
 			padding-left: 100px;
 			text-decoration: none;
-			/*background-color: white; */
+			
 
 		}
 
@@ -56,8 +56,12 @@
 		}*/
 
 		h2 {
-	
+			padding: 10px;
+			margin:10px 300px 10px;
 			text-align: center;
+			border: dotted;
+			border-width:5px;
+			border-height: 4px;
 
 		}
 
@@ -67,7 +71,8 @@
 		}
 
 		p {
-			margin: auto 50px;
+			text-align: center;
+			margin: 30px 100px;
 		}
 
 		.center {
