@@ -44,7 +44,7 @@
 		h1 {
 			margin: 10px auto;
 			text-align: center;
-			padding: 20px;
+			padding: 10px;
 			color: purple;
 		}
 
@@ -79,8 +79,12 @@
 			margin-left: 50px;
 		}
 
+		h4{
+			font-style: italic;
+			text-align: center;
+			margin-bottom:10px;
+		}
 		.head {
-			padding:0;
 			width:7%;
 			height: auto;
 			display:block;
